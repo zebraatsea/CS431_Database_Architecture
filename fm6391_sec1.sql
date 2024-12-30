@@ -1,5 +1,5 @@
 -- section 1 of final exam
--- brooklyn dressel
+-- brooklyn dressel 
 
 -- question 1
 -- select statement that returns account_number, account_description, 
